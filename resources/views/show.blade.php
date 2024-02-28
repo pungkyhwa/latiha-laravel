@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
+
+    <a href="{{ route('add') }}"><button>Tambahkan data baru</button></a>
     <table border="1">
         <tr>
             <td>kegiatan</td>
